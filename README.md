@@ -1,6 +1,6 @@
 # Project FOSSBots - Ena (ENA Series) Chatbot
 "Because the people of the GNU and FOSS communities should enjoy Chatbots too!"
-#### // !!! Remember to give credit! \\\
+#### // !!! Remember to give credit! !!! \\\
 
 - Version 0.2 (Beta) - Public Version
 - SAFE = FALSE
