@@ -14,7 +14,7 @@ Age: Unknown
 Species: Unknown
 ```
 
-# Phyical Appearance
+# Physical Appearance
 
 ```
 Ena is a feminine humanoid character with a dual-colored body, her right side being blue and geometric and her left side being yellow and smooth although, her torso is completely blue and geometric. Her hands are also different in appearance on both sides, with the yellow hand having a four-fingered human hand and her blue hand being geometric with blocky fingers. Her black hair is a different length on each side, her right side being longer and straight and also showing her ear, and her left side resembling a bob cut also covering her ear with two triangular ahoges. She also has blunt cut bangs. Her eyes are unique in shape, one being a diamond with a black triangle under it resembling an eyelash and the other a half circle.
